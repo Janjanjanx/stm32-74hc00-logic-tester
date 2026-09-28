@@ -80,7 +80,7 @@
 
 以下為 PuTTY 接收的 UART 測試紀錄。畫面中可見 00、01、10、11 四組輸入的實際輸出皆符合 NAND 真值表，並連續多輪顯示 PASS。
 
-![74HC00 單一 NAND 閘 UART 測試結果](uart-pass.png)
+![74HC00 單一 NAND 閘 UART 測試結果](uart-pass.png.png)
 
 > 本結果僅代表單一 NAND 閘在本次測試條件下通過靜態邏輯功能驗證。
 
